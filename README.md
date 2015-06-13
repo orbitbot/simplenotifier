@@ -1,6 +1,8 @@
 # simplenotifier
 POC CLI and Android client for unidirectional GCM messages
 
+Related blog post: http://pad.dy.fi/sending-messages-to-android-devices-with-gcm/
+
 <br />
 to use
 ------
