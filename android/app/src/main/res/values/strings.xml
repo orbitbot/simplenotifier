@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Notifier</string>
+    <string name="senderId"></string>
+</resources>
